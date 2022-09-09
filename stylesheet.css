@@ -1,0 +1,33 @@
+.wrapper {
+    margin: 0;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #464545cc;
+}
+/* Code by me */
+.header {
+    display: flex;
+    padding: 0 40px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #464545cc;
+ }
+ 
+ .book-button {
+     height: 40px;
+     width: 140px;
+     background-color: #82c70ce5;
+     border: none;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: 24px;
+     color: #464545cc;
+     border-radius: 5px;
+ }
