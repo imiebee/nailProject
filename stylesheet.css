@@ -33,6 +33,11 @@ h1 {
     border-radius: 5px;
 }
 
+.book-button:hover {
+    background-color: #464545cc;
+    color: #82c70ce5;
+}
+
 .navbar .container-sm {
     display: flex;
     justify-content: center;
