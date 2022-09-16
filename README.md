@@ -11,7 +11,7 @@ Coded with the user in mind this website is uncluttered, easy to navigate with c
 - There is a clear seperation between the header section and the contents of the pages
 - The content is minimal giving potential clients only what they require to find out about services offered. Navigating between pages is easy and visitors will know       exaclty where they are on what page when exploring.
 - The carousel is on an automatic loop giving visitors and idea of the quality offered by the business
-- the footer contains working links to social media pages, however the email and book button and contact for is not operational at this stage
+- the footer contains working links to the business' social media pages, the email of the business has also been added to the link. 
 
 ### Technology Used
 
@@ -23,3 +23,10 @@ Coded with the user in mind this website is uncluttered, easy to navigate with c
 - Google Chrome Development Tools
 - Chrome Extensions - Viewport Resizer
                     - WAVE Evaluation Tool
+
+### Testing
+
+1 Book button
+  When the "book" button is clicked it will open the default email program used by visitors.
+  
+  
