@@ -1,3 +1,4 @@
+/* Code by me */
 * {
     margin: 0;
     padding: 0;
@@ -8,7 +9,7 @@ body {
     color: #464545cc;
 }
 
-/* HOME PAGE Code by me */
+/* Home page header Code by me */
 
 .header-container {
     display: flex;
@@ -40,7 +41,8 @@ h1 {
     color: #82c70ce5;
 }
 
-/* Used some of he nav code from Traversymedia tutorial coupled code by myself to suit my need for the website */
+/* Used some of the nav code from Traversymedia tutorial coupled code by myself to suit my need for the website -https://www.youtube.com/watch?v=3YW65K6LcIA */
+
 .nav-container {
     display: flex;
     justify-content: center;
@@ -150,7 +152,7 @@ p {
     height: 100%;
 }
 
-/* Cody by Crazy Coders Club Footer Youtune video tutorial */
+/* Cody by Crazy Coders Club - https://www.youtube.com/watch?v=KZ0_inTItlA */
 #footer {
     position: relative;
     margin: 20px 0px 0px 0px;
@@ -200,7 +202,7 @@ footer p {
     width: 100%;
 }
 
-/* CONTACT US css - my code */
+/* CONTACT US css - my code using study material */
 
 .form {
     margin: 0 auto;
@@ -230,10 +232,7 @@ footer p {
     color: #82c70ce5;
 }
 
-/* ABOUT PAGE css - my code */
-
-/* Code from https://www.mygreatname.com/css-div-tutorials/how-to-overlapping-div-layers.html */
-
+/* Code from Going-To internet - https://www.youtube.com/watch?v=O-QUBZuZlXM */
 .about-container {
     display: flex;
     margin: 0 auto;
