@@ -26,7 +26,18 @@ Coded with the user in mind this website is uncluttered, easy to navigate with c
 
 ### Testing
 
-1 Book button
-  When the "book" button is clicked it will open the default email program used by visitors.
+1.  Book button
+    When the "book" button is clicked it will open the default email program used by visitors.
+2.  Navigation links
+    Clicking on the links will navigate visitors to the respective pages and is working as it should.
+3.  Carousel on home page
+    The carousel loops the 5 different images as it should. There are no controls for users to manually control the images.  It loops as it should.
+4.  FB social media link in footer  
+    Clicking on the social media Facebook link will redirect the visitor to the business' social media Facebook page.
+5.  Instagram social media link in footer  
+    Clicking on the social media Instagram link will redirect the visitor to the business' social media Instagram page.
+6.  Email link in foot
+    Clicking on the email link will redirect the visitor to the their default email program.
+7.     
   
   
