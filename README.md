@@ -38,6 +38,12 @@ Coded with the user in mind this website is uncluttered, easy to navigate with c
     Clicking on the social media Instagram link will redirect the visitor to the business' social media Instagram page.
 6.  Email link in foot
     Clicking on the email link will redirect the visitor to the their default email program.
-7.     
+7.  Contact form
+    The contact form submit button is not linked.
+
+### Deployment
+
+The website was created using Visual Studio Code, a local Git respository and then pushed to the remote respository in GitHub.  The final version will be hosted by GitHub Pages.
+
   
   
