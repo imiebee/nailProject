@@ -45,5 +45,8 @@ Coded with the user in mind this website is uncluttered, easy to navigate with c
 
 The website was created using Visual Studio Code, a local Git respository and then pushed to the remote respository in GitHub.  The final version will be hosted by GitHub Pages.
 
-  
+### Media
+
+All photographs used is the property of Nails by Imre.
+
   
