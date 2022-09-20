@@ -182,21 +182,14 @@ footer p {
 .social-links {
     display: flex;
     justify-content: center;
-    align-items: center;
+    list-style-type: none;
 }
 
-.social-links li {
-    display: flex;
-    list-style-type: none;
-   
-} 
-
 .social-links li a {
+    width: 50px;
     color: #82c70ce5;
     display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 5px 20px 0px;
+    padding: 5px 20px 0px 10px;
     text-decoration: none;
 }
 
