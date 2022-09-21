@@ -229,6 +229,7 @@ footer p {
     font-weight: bold;
     border-radius: 5px;
     background-color: #82c70ce5;
+    margin-top: 20px;
 }
 
 .form-group .btn:hover {
@@ -261,7 +262,6 @@ footer p {
     width: 350px;
     border-radius: 5px;
     padding: 5px;
-    margin: 0px;
     align-self: flex-end;
 }
 
@@ -374,7 +374,7 @@ footer p {
 
     .about-container {
         display: flex;
-        margin: 10px auto;
+        margin: 5px auto;
         justify-content: center;
         align-items: center;
         flex-wrap: wrap;
@@ -392,11 +392,10 @@ footer p {
 
     .review {
         border: 3px solid #82c70ce5;
-        height: 200px;
-        width: 350px;
+        height: 180px;
+        width: 400px;
         border-radius: 5px;
         padding: 5px;
-        margin: 15px;
     }
 
     .client-comment p {
