@@ -1,5 +1,5 @@
 # Nails by Imre Website Project 1
-This project is a responsive website which includes the skills learnt so far in the course. This website is based on an existing business that delivers nail services to clients. The website will showcase the nail technician's ability and experience to potential clients and also offer the user the opportunity to contact the business with any queries or bookings.
+This project is a responsive website which includes the skills learnt during the course so far. This website is based on an existing business that delivers nail services to clients. The objective is to introduce the business to potential clients in the Sutton area and also offer the user the opportunity to contact the business with any queries or bookings.
 
 ### UX
 Coded with the user in mind this website is uncluttered, easy to navigate with clear concise headings and content that adjusts to mobile and desktop devices.
@@ -38,6 +38,15 @@ Coded with the user in mind this website is uncluttered, easy to navigate with c
     Clicking on the social media Instagram link will redirect the visitor to the business' social media Instagram page.
 6.  Email link in foot
     Clicking on the email link will redirect the visitor to the their default email program.
-7.     
-  
+7.  Contact form
+    The contact form submit button is not linked.
+
+### Deployment
+
+The website was created using Visual Studio Code, a local Git respository and then pushed to the remote respository in GitHub.  The final version will be hosted by GitHub Pages.
+
+### Media
+
+All photographs used is the property of Nails by Imre.
+
   
